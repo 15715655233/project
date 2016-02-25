@@ -1,3 +1,3 @@
-@interface People : NSObject
 
-@end
+
+NSLog(@"1111111");

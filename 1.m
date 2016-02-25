@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 @interface People : NSObject
 
@@ -5,3 +6,8 @@
 
 
 @end
+=======
+
+
+NSLog(@"1111111");
+>>>>>>> local1.1
